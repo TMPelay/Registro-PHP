@@ -1,0 +1,36 @@
+* {
+	margin: 0;
+	font-family: 'Roboto', sans-serif;
+}
+
+.form {
+	margin: auto;
+	margin-top: 300px;
+	width: 45%;
+	height: 200px;
+	background-color: #ff9c2b;
+	border-radius: 30px;
+}
+
+.title {
+	display: block;
+	margin: 0 20% 0 20%;
+	padding-top: 40px;
+	width: 60%;
+	height: 70px;
+	font-size: 46px;
+	text-align: center;
+	color: #ffffff;
+}
+
+.label {
+	display: inline-block;
+	margin: 0 0 0 20px;
+	width: 30%;
+}
+
+.text-in {
+	display: inline-block;
+	margin-left: 20px;
+	width: 58%;
+}
